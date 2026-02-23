@@ -1,3 +1,3 @@
 # Project Homepage
 
-See the full project homepage: ./project-homepage.md
+See the full [Project Homepage](project-homepage.md)
