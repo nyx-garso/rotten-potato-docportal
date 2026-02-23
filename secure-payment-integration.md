@@ -5,6 +5,7 @@
 ![Sign Up Mockup](images/secure-payment-integration-3.png)
 ![Sign Up Mockup](images/secure-payment-integration-4.png)
 
+
 ---
 
 ## Functional Description

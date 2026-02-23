@@ -4,6 +4,7 @@
 ![Sign Up Mockup](images/social-feed-and-interaction-2.png)
 ![Sign Up Mockup](images/social-feed-and-interaction-3.png)
 
+
 ---
 
 ## Functional Description
