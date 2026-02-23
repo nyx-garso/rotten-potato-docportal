@@ -1,4 +1,4 @@
-# Project Homepage > Secure Messaging System
+# Project Homepage > Social Feed and Interaction
 
 ![Sign Up Mockup](images/social-feed-and-interaction-1.png)
 ![Sign Up Mockup](images/social-feed-and-interaction-2.png)
