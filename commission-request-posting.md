@@ -1,4 +1,4 @@
-# Project Homepage > Secure Messaging System
+# Project Homepage > Commission Request Posting
 
 ![Sign Up Mockup](images/commission-request-posting-1.png)
 ![Sign Up Mockup](images/commission-request-posting-2.png)
